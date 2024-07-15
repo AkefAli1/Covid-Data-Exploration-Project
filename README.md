@@ -1,0 +1,1 @@
+•	Utilized SQL to analyze a global COVID-19 dataset of over 85,000 entries, deriving infection rates, death percentages, and vaccination progress across continents and countries using advanced aggregation technique
